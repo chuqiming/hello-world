@@ -1,2 +1,3 @@
 # hello-world
-This is the sample.
+This is a simple sample. 
+I edit the README.md file.
